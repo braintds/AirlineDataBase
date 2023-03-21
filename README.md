@@ -1,6 +1,6 @@
 EN:
 database coursework
-theme: airline database 
+theme: airline database ____
 === DESCRIPTION ===
 The program is a demo version and is not a full-fledged software product.
 
